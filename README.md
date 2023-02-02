@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/AndriesMathenjwa/AndriesMathenjwa/master/banner.jpg" alt="banner that says Andries mathenjwa  - software engineer">
 ### Hi there 👋
 
 
